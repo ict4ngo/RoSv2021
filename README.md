@@ -1,19 +1,15 @@
 # RoSv2021
 
-sites pour surveiller le soleil
+## Quelques sites pour surveiller le soleil
 
 https://solarmonitor.org/
-
-
 https://www.helioviewer.org/
-
-
 http://solar-center.stanford.edu/sun-today.html
 
 
 
 
-Observatoires Spatiaux quelques références
+## Observatoires Spatiaux quelques références
 
 
 ESA - 1-Solar Orbiter
@@ -61,7 +57,8 @@ Solar Images - SDAC NASA-GSFC
 https://umbra.nascom.nasa.gov/newsite/images.html
 
 
-Liens vers site de membres
+## Liens vers des sites de membres
+
 
 
 Astroblue1
@@ -69,19 +66,17 @@ https://sites.google.com/site/astroblue1/astronomie/brico-utiles
 
 
 
-Présentation de l'observatoire de Christian
+## Observatoire de Christian
 
+Présentation de l'observatoire de christian
 https://onedrive.live.com/view.aspx?resid=FB717156E5A03ECB!6495&ithint=file%2cpptx&authkey=!AEd8JLv_mYaK8Xg
 
 
-
-
 Canal Youtube de christian
-
 https://www.youtube.com/channel/UC5paVsu68LUPeEH1d5vVMEw
 
 
-Prise enregistrée quelques jours avant le RoSv 2021
+## Prise de vue enregistrées quelques jours avant le RoSv 2021
 
 
  Lumière blanche
@@ -97,3 +92,4 @@ https://youtu.be/3n6_fYIaPowf
 
  H-Alpha (Protubérances)
 https://youtu.be/GAq-5vqgOV8
+
