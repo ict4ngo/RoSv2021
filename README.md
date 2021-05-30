@@ -73,6 +73,9 @@ https://sites.google.com/site/astroblue1/astronomie/brico-utiles
 Présentation de l'observatoire de christian
 https://onedrive.live.com/view.aspx?resid=FB717156E5A03ECB!6495&ithint=file%2cpptx&authkey=!AEd8JLv_mYaK8Xg
 
+Photos de l'observatoire de christian 
+https://onedrive.live.com/?authkey=%21AB1GgyxM29UDAVw&id=FB717156E5A03ECB%2112624&cid=FB717156E5A03ECB
+
 
 Canal Youtube de christian
 https://www.youtube.com/channel/UC5paVsu68LUPeEH1d5vVMEw
