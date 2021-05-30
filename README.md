@@ -9,6 +9,11 @@ https://www.helioviewer.org/
 http://solar-center.stanford.edu/sun-today.html
 
 
+## Rotation différentielle
+
+https://en.wikipedia.org/wiki/Differential_rotation
+
+
 
 
 ## Observatoires Spatiaux quelques références
